@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #ffffff;   /* fundo branco */
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  padding: 50px;
+  background: #f8f8f8;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #556B2F; /* verde oliva */
+}
+
+.countdown {
+  font-size: 1.5em;
+  margin-top: 20px;
+  color: #556B2F; /* verde oliva */
+}
+
+section {
+  padding: 40px 20px;
+  border-bottom: 1px solid #eee;
+}
+
+h2 {
+  color: #556B2F; /* verde oliva */
+}
+
+a {
+  color: #556B2F; /* verde oliva */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section:nth-child(even) {
+  background: #f9f9f9; /* alternância suave */
+}
