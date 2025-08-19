@@ -1,4 +1,5 @@
-const dataCasamento = new Date("Aug 10, 2025 15:00:00").getTime();
+const dataCasamento = new Date("Dec 29, 2015 16:00:00").getTime();
+
 
 setInterval(() => {
   const agora = new Date().getTime();
